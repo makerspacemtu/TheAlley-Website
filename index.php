@@ -43,7 +43,11 @@
 				<th></th>
 				<th></th>
 			</tr>
-			<tr>
+      <tr>
+				<td>CLOSED</td>
+				<td></td>
+			</tr>
+			<!--<tr>
 				<td>Monday:&nbsp </td>
 				<td>2:00 - 4:00 pm & 6:00 - 8:00pm</td>
 			</tr>
@@ -70,7 +74,7 @@
 			<tr>
 				<td>Sunday:&nbsp </td>
 				<td>CLOSED</td>
-			</tr>
+			</tr>-->
     </table>
     </div>
   </div>
