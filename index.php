@@ -43,25 +43,25 @@
 				<th></th>
 				<th></th>
 			</tr>
-      <tr>
+      <!--<tr>
 				<td>CLOSED</td>
 				<td></td>
-			</tr>
-			<!--<tr>
+			</tr>-->
+			<tr>
 				<td>Monday:&nbsp </td>
-				<td>2:00 - 4:00 pm & 6:00 - 8:00pm</td>
+				<td>5:00 - 7:00 pm</td>
 			</tr>
 			<tr>
 				<td>Tuesday:&nbsp </td>
-				<td>2:00 - 8:00 pm</td>
+				<td>7:00 - 9:00 pm</td>
 			</tr>
 			<tr>
 				<td>Wednesday:&nbsp</td>
-				<td>2:00 - 6:00 pm</td>
+				<td>CLOSED</td>
 			</tr>
 			<tr>
 				<td>Thursday:&nbsp </td>
-				<td>4:00 - 8:00 pm</td>
+				<td>5:00 - 9:00 pm</td>
 			</tr>
 			<tr>
 				<td>Friday:&nbsp </td>
@@ -74,7 +74,7 @@
 			<tr>
 				<td>Sunday:&nbsp </td>
 				<td>CLOSED</td>
-			</tr>-->
+			</tr>
     </table>
     </div>
   </div>
