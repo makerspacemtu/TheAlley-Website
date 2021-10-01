@@ -51,19 +51,6 @@
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/aarichar.jpg');"></div>
-              <a href="mailto:aarichar@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Alissa Richardson
-              </a>
-              <h4 class="member__title">
-                Student Operations Manager
-              </h4>
-              <p class="member__bio small">
-                Not funny human...
-              </p>
-            </div>
-
-            <div class="column member">
               <div class="member__photo" style="background-image: url('/img/crew/Sam18.jpg');"></div>
               <a href="mailto:savelleq@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
                 Sam Vellequette
@@ -73,32 +60,6 @@
               </h4>
               <p class="member__bio small">
                 I want to learn everything, but that's a lot to remember.
-              </p>
-            </div>
-
-            <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/rakyllo.jpg');"></div>
-              <a href="mailto:rakyllo@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Ronald Kyllonen
-              </a>
-              <h4 class="member__title">
-                3D Printing Team-Lead
-              </h4>
-              <p class="member__bio small">
-                I am Ron.
-              </p>
-            </div>
-
-            <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Matthew.jpg');"></div>
-              <a href="mailto:mayeates@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Matthew Yeates
-              </a>
-              <h4 class="member__title">
-                Wood-Working Co-Lead
-              </h4>
-              <p class="member__bio small">
-                I'm willing to help out with any project but I'm probably the most competent if pertains to woodworking.
               </p>
             </div>
 
