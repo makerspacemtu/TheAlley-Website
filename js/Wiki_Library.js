@@ -1,11 +1,4 @@
-/*
-/ Purpose
-/
-/
-/
-/
-/
-*/
+
 var loaded = false;
 
 function loadLibrary() {
