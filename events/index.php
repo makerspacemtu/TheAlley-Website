@@ -6,10 +6,13 @@
 <section>
   <div class="content">
     <div class="row">
-        <image src="/img/events/MakeMugKnight.jpg" width="500" height="600">
-        <image src="/img/events/MN_Replay_v5.jpg" width="500" height="600">
-      </div>
+      <image src="/img/events/MN_Replay_v5.jpg" width="500" height="600">
+      <image src="/img/events/NailString.jpg" width="500" height="600">
+      <image src="/img/events/Book_Binding_Makenight.jpg" width="500" height="600">
+      <image src="/img/events/yooper_keychain_makenight.jpg" width="500" height="600">
+      <image src="/img/events/MakeMugKnight.jpg" width="500" height="600">
     </div>
+  </div>
 </section>
 <!--section required for every layout-->
 <?php require '/app/_includes/call_to_action.php';
