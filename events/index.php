@@ -7,6 +7,7 @@
   <div class="content">
     <div class="row">
         <image src="/img/events/MakeMugKnight.jpg" width="500" height="600">
+        <image src="/img/events/MN_Replay_v5.jpg" width="500" height="600">
       </div>
     </div>
 </section>
