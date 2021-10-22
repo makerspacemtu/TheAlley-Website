@@ -6,10 +6,10 @@
 <section>
   <div class="content">
     <div class="row">
-      <div class="planItem">
+      <div id="planItem">
         <p> Model Portage Canal Lift Bridge </p>
         <image src="/img/projects/LiftBridge.jpg" width="300px" height="400px"> </br>
-          <a id="PDF" href="/PDFs/Portage_Canal_Lift_Bridge.pdf" download="Portage_Canal_Lift_Bridge"> Download PDF &nbsp&nbsp </a>
+          <a class="PDF" href="/PDFs/Portage_Canal_Lift_Bridge.pdf" download="Portage_Canal_Lift_Bridge"> Download PDF &nbsp&nbsp </a>
   	      <a href="/ZIPs/Portage_Canal_Lift_Bridge.zip" download="Portage_Canal_Lift_Bridge"> Download DXF </a>
       </div>
     </div>
