@@ -9,8 +9,8 @@
       <div class="planItem">
         <p> Model Portage Canal Lift Bridge </p>
         <image src="/img/projects/LiftBridge.jpg" width="300px" height="400px"> </br>
-          <a id="PDF" href="/app/PDFs/Portage_Canal_Lift_Bridge.pdf" download="Portage_Canal_Lift_Bridge"> Download PDF </a>
-  	      <a href="/app/ZIPs/Portage_Canal_Lift_Bridge.zip" download="Portage_Canal_Lift_Bridge"> Download DXF </a>
+          <a id="PDF" href="/PDFs/Portage_Canal_Lift_Bridge.pdf" download="Portage_Canal_Lift_Bridge"> Download PDF </a>
+  	      <a href="/ZIPs/Portage_Canal_Lift_Bridge.zip" download="Portage_Canal_Lift_Bridge"> Download DXF </a>
       </div>
     </div>
   </div>
