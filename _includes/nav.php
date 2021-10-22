@@ -21,6 +21,11 @@
           </a>
         </li>
         <li class="nav__link-item">
+          <a href='/plans/index.php' class="nav__link">
+            Plans
+          </a>
+        </li>
+        <li class="nav__link-item">
           <a href='/wiki/index.php' class="nav__link">
             Wiki
           </a>
