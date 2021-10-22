@@ -1580,7 +1580,7 @@ button {
   display: inline-block;
 }
 .pdf {
-  margin-right: 10px;
+  margin-right: 10px !important;
 }
 
 /*# sourceMappingURL=main.css.map */
