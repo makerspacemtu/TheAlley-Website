@@ -12,6 +12,12 @@
           <a href="/PDFs/Portage_Canal_Lift_Bridge.pdf" download="Portage_Canal_Lift_Bridge" class="pdf"> Download PDF </a>
   	      <a href="/ZIPs/Portage_Canal_Lift_Bridge.zip" download="Portage_Canal_Lift_Bridge"> Download DXF </a>
       </div>
+      <div id="planItem">
+        <p> Wooden Mug </p>
+        <image src="/img/projects/mug.jpg" width="300px" height="400px"> </br>
+          <a href="/PDFs/Portage_Canal_Lift_Bridge.pdf" download="WoodenMug" class="pdf"> Download PDF </a>
+  	      <a href="/ZIPs/Portage_Canal_Lift_Bridge.zip" download="WoodenMug"> Download DXF </a>
+      </div>
     </div>
   </div>
 </section>
