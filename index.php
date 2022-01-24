@@ -49,7 +49,7 @@
 			</tr>-->
 		  <tr>
 				<td>Monday:&nbsp </td>
-				<td>3:00 - 9:00 pm</td>
+				<td>5:00 - 9:00 pm</td>
 			</tr>
 			<tr>
 				<td>Tuesday:&nbsp </td>
