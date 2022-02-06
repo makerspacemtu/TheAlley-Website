@@ -49,20 +49,28 @@
 			</tr>-->
 		  <tr>
 				<td>Monday:&nbsp </td>
-				<td>5:00 - 9:00 pm</td>
+				<td>7:00 - 9:00 pm</td>
 			</tr>
 			<tr>
 				<td>Tuesday:&nbsp </td>
 				<td>5:00 - 9:00 pm</td>
 			</tr>
-			<tr>
+      <tr>
+				<td>Wednesday:&nbsp</td>
+				<td>Closed for Winter Carnival</td>
+			</tr>
+			<!--<tr>
 				<td>Wednesday:&nbsp</td>
 				<td>5:00 - 9:00 pm</td>
+			</tr>-->
+      <tr>
+				<td>Thursday:&nbsp </td>
+				<td>Closed for Winter Carnival</td>
 			</tr>
-			<tr>
+			<!--<tr>
 				<td>Thursday:&nbsp </td>
 				<td>5:00 - 7:00 pm</td>
-			</tr>
+			</tr>-->
 			<tr>
 				<td>Friday:&nbsp </td>
 				<td>CLOSED</td>
