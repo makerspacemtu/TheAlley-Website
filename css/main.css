@@ -9,17 +9,16 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #4f4f4f;
+  background-color: rgba(97, 98, 99, .75);
   opacity: 75%;
   z-index: 2;
 }
 .eventOverlay{
-  position: fixed;
   display: none;
   width: 50%;
   height: 50%;
   background-color: #ffffff;
-  opacity: 100%;
+  opacity: 125%;
   z-index: 3;
 }
 
