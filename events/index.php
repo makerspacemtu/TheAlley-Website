@@ -5,6 +5,14 @@
 <?php include '/app/_includes/headerMain.php'; ?>
 <section>
   <div class="content">
+    <h2 class="header"> Spring 2022 Events </h2>
+    <h4> click an event to see more details </h4>
+    <div class="row">
+
+    </div>
+  </div>
+  <div class="content">
+    <h2 class="header"> Old Events </h2>
     <div class="row">
       <image src="/img/events/BadRobotNight.jpg" width="500" height="600">
       <image src="/img/events/MN_Replay_v5.jpg" width="500" height="600">
