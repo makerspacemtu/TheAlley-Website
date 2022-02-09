@@ -12,7 +12,6 @@
   z-index: 2;
 }
 #eventOverlay{
-  position: fixed;
   display: none;
   width: 90%%;
   height: 90%;
