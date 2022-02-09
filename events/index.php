@@ -15,7 +15,7 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
-        <image src="/img/events/BadRobotNight.jpg" width="500" height="600" onclick="openEvent(BadRobotNight)">
+        <image src="/img/events/BadRobotNight.jpg" width="500" height="600" onclick="openEvent('BadRobotNight')">
       </div>
     </div>
     <div class="content">
