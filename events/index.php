@@ -4,7 +4,7 @@
 <body>
 <?php include '/app/_includes/headerMain.php'; ?>
   <script type="text/javascript" src="/js/events.js"></script>
-  <div class="overlayBackground">
+  <div id="overlayBackground">
   </div>
 
   <div class="eventOverlay">
