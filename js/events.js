@@ -9,5 +9,6 @@ var openEvent;
 function openEvent(name){
   //turn on the grey background
   document.getElementById("overlayBackground").style.display = "block";
+  console.log(name);
   document.getElementById(name).style.display = "block";
 }
