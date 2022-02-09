@@ -2,8 +2,8 @@
 <html>
 <?php include '/app/_includes/head.php'; ?>
 <body>
-  <script type="text/javascript" src="/js/events.js"></script>
 <?php include '/app/_includes/headerMain.php'; ?>
+  <script type="text/javascript" src="/js/events.js"></script>
   <div class="overlayBackground">
   </div>
 
