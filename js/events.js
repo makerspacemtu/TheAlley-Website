@@ -8,7 +8,7 @@ clicked
 var openEvent;
 function openEvent(name){
   //turn on the grey background
-  document.getElementById("overlayBackground").style.display = "block";
+  document.getElementById("overlayBackground").style.display = "flex";
   console.log(name);
   document.getElementById(name).style.display = "block";
 }
