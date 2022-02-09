@@ -2,6 +2,7 @@
 <html>
 <?php include '/app/_includes/head.php'; ?>
 <body>
+  <script type="text/javascript" src="/js/events.js"></script>
 <?php include '/app/_includes/headerMain.php'; ?>
   <div class="overlayBackground">
   </div>
@@ -14,7 +15,7 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
-        <image src="/img/events/BadRobotNight.jpg" width="500" height="600" onclick="openEvent()">
+        <image src="/img/events/BadRobotNight.jpg" width="500" height="600" onclick="openEvent(BadRobotNight)">
       </div>
     </div>
     <div class="content">

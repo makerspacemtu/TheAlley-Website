@@ -6,7 +6,7 @@ Arguments: name- the ID of the event overlay that should open when the event is
 clicked
 */
 var openEvent;
-function openEvent(){
+function openEvent(name){
   //turn on the grey background
   document.getElementById("overlayBackground").style.display = "block";
 }
