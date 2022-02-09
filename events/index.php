@@ -5,9 +5,8 @@
 <?php include '/app/_includes/headerMain.php'; ?>
   <script type="text/javascript" src="/js/events.js"></script>
   <div id="overlayBackground">
-  </div>
-
-  <div class="eventOverlay" id="0025_NewCoach">
+    <div class="eventOverlay" id="0025_NewCoach">
+    </div>
   </div>
 
   <section>
