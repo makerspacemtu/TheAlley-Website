@@ -4,7 +4,10 @@
 <body>
 <?php include '/app/_includes/headerMain.php'; ?>
   <script type="text/javascript" src="/js/events.js"></script>
+
+<!--The code to overlay information when a poster is clicked-->
   <div id="overlayBackground">
+    <button id="overlayClose" type="button" class="btn-close btn-close-white" aria-label="Close" onclick="closeEvent()"></button>
     <div class="eventOverlay" id="0025_NewCoach">
     </div>
   </div>
@@ -17,6 +20,8 @@
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0025_NewCoach')">
       </div>
     </div>
+
+    <!--Regular events-->
     <div class="content">
       <div class="row">
         <h2 class="header"> Old Events </h2>

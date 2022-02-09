@@ -12,10 +12,16 @@
   background-color: rgba(97, 98, 99, .75);
   z-index: 2;
 }
+#overlayClose{
+  width: 5%;
+  height: auto;
+  align-self: flex-end;
+  margin-right: 1%;
+}
 .eventOverlay{
   display: none;
-  width: 90%;
-  height: 90%;
+  width: 92%;
+  height: 88%;
   background-color: #ffffff;
   z-index: 3;
 }

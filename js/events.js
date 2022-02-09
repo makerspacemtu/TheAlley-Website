@@ -9,6 +9,15 @@ var openEvent;
 function openEvent(name){
   //turn on the grey background
   document.getElementById("overlayBackground").style.display = "flex";
-  console.log(name);
+  openEvent = name;
   document.getElementById(name).style.display = "block";
+}
+
+/*
+Open event will close an open event
+*/
+function closeEvent(){
+  document.getElementById("overlayBackground").style.display = "none";
+  document.getElementById(openEvent).style.display = "none";
+  openEvent = null;
 }
