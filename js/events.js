@@ -9,7 +9,7 @@ var openedEvent;
 function openEvent(name){
   //turn on the grey background
   document.getElementById("overlayBackground").style.display = "flex";
-  openEvent = name;
+  openedEvent = name;
   document.getElementById(name).style.display = "block";
 }
 
