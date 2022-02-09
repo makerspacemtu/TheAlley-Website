@@ -7,7 +7,9 @@
 
 <!--The code to overlay information when a poster is clicked-->
   <div id="overlayBackground">
-    <button id="overlayClose" type="button" class="btn-close btn-close-white" aria-label="Close" onclick="closeEvent()"></button>
+    <button id="overlayClose" type="button" class="close" aria-label="Close" onclick="closeEvent()">
+      <span aria-hidden="true">&times;</span>
+    </button>
     <div class="eventOverlay" id="0025_NewCoach">
     </div>
   </div>
