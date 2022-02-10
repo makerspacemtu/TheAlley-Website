@@ -22,7 +22,7 @@
              layout of the space, and meeting some of the team. Training will
              require you to learn a few key tools that are commonly used in the
              space.</p>
-          <p><b>Time and Date:&nbsp</b>February 25 2022 From 6 to 8 pm</p>
+          <p><b>Time and Date:&nbsp</b>February 25, From 6-8p.m.</p>
           <p><b>Location:&nbsp</b>The Alley Makerspace</p>
         </div>
       </div>
