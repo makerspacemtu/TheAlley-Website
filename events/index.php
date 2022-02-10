@@ -12,7 +12,7 @@
     </button>
     <div class="eventOverlay" id="0025_NewCoach">
       <div class="overlayContent">
-        <div class="row">
+        <div class="overlayRow">
           <h2 class="header">New Coach Orientation and Training</h2>
         </div>
       </div>

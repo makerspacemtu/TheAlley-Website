@@ -28,7 +28,10 @@
   color: #aaabad;
 }
 .overlayContent{
-  padding: 1% 0;
+  padding: 0px 1%;
+}
+.overlayRow{
+  max-width: 1100px;
 }
 .eventOverlay{
   display: none;
