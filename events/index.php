@@ -10,13 +10,24 @@
     <button id="overlayClose" type="button" class="close" aria-label="Close" onclick="closeEvent()">
       <span aria-hidden="true">&times;</span>
     </button>
+
     <div class="eventOverlay" id="0025_NewCoach">
       <div class="overlayContent">
         <div class="overlayRow">
           <h2 class="header">New Coach Orientation and Training</h2>
+          <p><b>Description:&nbsp</b>Coach Orientatin walks you through the
+            proccess of becoming a maker coach! At the event, you'll go through
+            the motions of filling out the nessessary paperwork(don't worry, its
+             not that much), getting an account set up on our app, learning the
+             layout of the space, and meeting some of the team. Training will
+             require you to learn a few key tools that are commonly used in the
+             space.</p>
+          <p><b>Time and Date:&nbsp</b>February 25 2022 From 6 to 8 pm</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
         </div>
       </div>
     </div>
+
   </div>
 
   <section>
