@@ -11,6 +11,11 @@
       <span aria-hidden="true">&times;</span>
     </button>
     <div class="eventOverlay" id="0025_NewCoach">
+      <div class="content">
+        <div class="row">
+          <h2 class="header">New Coach Orientation and Training</h2>
+        </div>
+      </div>
     </div>
   </div>
 
