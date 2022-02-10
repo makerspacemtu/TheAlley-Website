@@ -25,19 +25,6 @@
         <div class="row small-up-1 medium-up-2 large-up-3">
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/gpwest.jpg');"></div>
-              <a href="mailto:gpwest@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Gi West
-              </a>
-              <h4 class="member__title">
-                Maker in Residence
-              </h4>
-              <p class="member__bio small">
-                Hi, I’m a certified crazy person named Gi.
-              </p>
-            </div>
-
-            <div class="column member">
               <div class="member__photo" style="background-image: url('/img/crew/cdlangdo.jpg');"></div>
               <a href="mailto:cdlangdo@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
                 Connor Langdon
@@ -101,56 +88,38 @@
           here to assist you and share their experience!
     </p>
 		<div class="row small-up-1 medium-up-2 large-up-3">
-      <p class="column">
-			Alissa Richardson
-      </p>
 			<p class="column">
 			Brendan Powerss
 			</p>
       <p class="column">
 			Connor Langdon
       </p>
+      <p class="column">
+      Andrea Hernandez
+      </p>
+      <p class="column">
+      Ben Bolduc
+      </p>
+      <p class="column">
+      Evelyn James
+      </p>
+      <p class="column">
+      Hunter Higdon
+      </p>
 			<p class="column">
 			Dolan Moles
 			</p>
       <p class="column">
-			Gi West
-      </p>
-      <p class="column">
-      Greta Rickauer
-      </p>
-      <p class="column">
-			Griffin Harvey
-      </p>
-      <p class="column">
 			Jack Philip
       </p>
-      <p class="column">
-			Jacob Terlecki
-			</p>
-      <p class="column">
-			John Mazur
-			</p>
-      <p class="column">
-			Justin Bowmer
-			</p>
       <p class="column">
 			Matthew Yeates
       </p>
       <p class="column">
 			Meg Rotole
       </p>
-			<p class="column">
-			Riley Nelson
-			</p>
-      <p class="column">
-			Ronald Kyllonen
-      </p>
       <p class="column">
 			Sam Vellequette
-      </p>
-      <p class="column">
-      William Reehl
       </p>
         </div>
 
