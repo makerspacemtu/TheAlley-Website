@@ -27,6 +27,9 @@
 #overlayClose:hover{
   color: #aaabad;
 }
+.overlayContent{
+  padding: 1% 0;
+}
 .eventOverlay{
   display: none;
   width: 92%;
