@@ -15,9 +15,9 @@
       <div class="overlayContent">
         <div class="overlayRow">
           <h2 class="header">New Coach Orientation and Training</h2>
-          <p><b>Description:&nbsp</b>Coach Orientatin walks you through the
-            proccess of becoming a maker coach! At the event, you'll go through
-            the motions of filling out the nessessary paperwork(don't worry, its
+          <p><b>Description:&nbsp</b>Coach Orientation walks you through the
+            process of becoming a maker coach! At the event, you'll go through
+            the motions of filling out the necessary paperwork(don't worry, it's
              not that much), getting an account set up on our app, learning the
              layout of the space, and meeting some of the team. Training will
              require you to learn a few key tools that are commonly used in the
