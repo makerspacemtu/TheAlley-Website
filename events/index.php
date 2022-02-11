@@ -50,7 +50,7 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
-        <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0025_Bookmark')">
+        <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0018_Bookmark')">
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0025_NewCoach')">
       </div>
     </div>
