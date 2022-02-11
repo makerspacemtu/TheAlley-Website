@@ -23,6 +23,21 @@
              require you to learn a few key tools that are commonly used in the
              space.</p>
           <p><b>Time and Date:&nbsp</b>February 25, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="eventOverlay" id="0218_Bookmark">
+      <div class="overlayContent">
+        <div class="overlayRow">
+          <h2 class="header">Bookmark Makenight</h2>
+          <p><b>Description:&nbsp</b>At our bookmark makenight, we'll walk you
+            through the steps of creating a wooden bookmark. Using a variety of
+            woods, you'll sand, shape, decorate and finish your bookmark.</p>
+          <p><b>Time and Date:&nbsp</b>February 18, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
           <p><b>Location:&nbsp</b>The Alley Makerspace</p>
         </div>
       </div>
@@ -35,6 +50,7 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
+        <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0025_Bookmark')">
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0025_NewCoach')">
       </div>
     </div>
