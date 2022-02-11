@@ -11,7 +11,7 @@
       <span aria-hidden="true">&times;</span>
     </button>
 
-    <div class="eventOverlay" id="0025_NewCoach">
+    <div class="eventOverlay" id="0225_NewCoach">
       <div class="overlayContent">
         <div class="overlayRow">
           <h2 class="header">New Coach Orientation and Training</h2>
@@ -50,8 +50,8 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
-        <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0018_Bookmark')">
-        <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0025_NewCoach')">
+        <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0218_Bookmark')">
+        <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0225_NewCoach')">
       </div>
     </div>
 
