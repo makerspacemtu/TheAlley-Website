@@ -43,6 +43,34 @@
       </div>
     </div>
 
+    <div class="eventOverlay" id="0222_FeltSucculents">
+      <div class="overlayContent">
+        <div class="overlayRow">
+          <h2 class="header">Felt Succulents</h2>
+          <p><b>Description:&nbsp</b>The Alley Makerspace invites you to make
+          some adorable felt plants! Make them together with us in the Alley
+          or take a kit to-go to make one at home. Masks required</p>
+          <p><b>Time and Date:&nbsp</b>February 22, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="eventOverlay" id="0303_Catapults">
+      <div class="overlayContent">
+        <div class="overlayRow">
+          <h2 class="header">Catapult Makenight Competition</h2>
+          <p><b>Description:&nbsp</b>Join us in the Alley Makerspace to
+          design and build your very own catapult. At the end of the night we
+          will have a competition to see whos catapult can launch the furthest!</p>
+          <p><b>Time and Date:&nbsp</b>March 3, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <section>
@@ -51,7 +79,9 @@
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
         <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0218_Bookmark')">
+        <image src="/img/events/0222_FeltSucculents.png" width="500" height="600" onclick="openEvent('0222_FeltSucculents')">
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0225_NewCoach')">
+          <image src="/img/events/0303_Catapults.png" width="500" height="600" onclick="openEvent('0303_Catapults')">
       </div>
     </div>
 
