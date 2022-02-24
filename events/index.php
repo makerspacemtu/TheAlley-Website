@@ -79,9 +79,9 @@
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
         <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0218_Bookmark')">
-        <image src="/img/events/0222_FeltSucculents.png" width="500" height="600" onclick="openEvent('0222_FeltSucculents')">
+        <image src="/img/events/0222_FeltSucculents.jpg" width="500" height="600" onclick="openEvent('0222_FeltSucculents')">
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0225_NewCoach')">
-          <image src="/img/events/0303_Catapults.png" width="500" height="600" onclick="openEvent('0303_Catapults')">
+          <image src="/img/events/0303_Catapults.jpg" width="500" height="600" onclick="openEvent('0303_Catapults')">
       </div>
     </div>
 
