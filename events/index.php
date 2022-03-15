@@ -71,6 +71,41 @@
       </div>
     </div>
 
+    <div class="eventOverlay" id="0318_BadArt">
+      <div class="overlayContent">
+        <div class="overlayRow">
+          <h2 class="header">Bad Art Night</h2>
+          <p><b>Description:&nbsp</b>Join us in the Alley Makerspace to
+          make some bad art. We will be building a new mural for the Makerspace.
+          A suprise judge may appear at this event to judge the bad art and possibly
+          award a prize to the worst art.</p>
+          <p><b>Time and Date:&nbsp</b>March 18, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="eventOverlay" id="0318_BadArt">
+      <div class="overlayContent">
+        <div class="overlayRow">
+          <h2 class="header">D&D Dice Bag Makenight</h2>
+          <p><b>Description:&nbsp</b>Join us on March 25th at 6pm to craft some leather
+          dice bags. All supplies needed to make the dice bags will
+          be provided by the Makerspace.
+
+          THIS EVENT MIGHT TAKE LONGER THAN
+          2 HOURS AS ALL LEATHER WILL BE SEWN
+          BY HAND.
+          LIMITED SPOTS. SIGN UP HERE
+          https://forms.gle/iMwtMQKv4rCdBjQN6</p>
+          <p><b>Time and Date:&nbsp</b>March 15, From 6-8p.m.</p>
+          <p><b>Cost:&nbsp</b>Free</p>
+          <p><b>Location:&nbsp</b>The Alley Makerspace</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <section>
@@ -78,10 +113,12 @@
       <div class="row">
         <h2 class="header"> Spring 2022 Events </h2>
         <p> click an event to see more details </p>
+        <image src="/img/events/0325_DiceBag.jpg" width="500" height="600" onclick="openEvent('0325_DiceBag')">
+        <image src="/img/events/0318_BadArt.jpg" width="500" height="600" onclick="openEvent('0318_BadArt')">
         <image src="/img/events/0218_Bookmark.jpg" width="500" height="600" onclick="openEvent('0218_Bookmark')">
         <image src="/img/events/0222_FeltSucculents.jpg" width="500" height="600" onclick="openEvent('0222_FeltSucculents')">
         <image src="/img/events/0225_NewCoach.png" width="500" height="600" onclick="openEvent('0225_NewCoach')">
-          <image src="/img/events/0303_Catapults.jpg" width="500" height="600" onclick="openEvent('0303_Catapults')">
+        <image src="/img/events/0303_Catapults.jpg" width="500" height="600" onclick="openEvent('0303_Catapults')">
       </div>
     </div>
 
