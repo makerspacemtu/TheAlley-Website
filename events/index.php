@@ -86,7 +86,7 @@
       </div>
     </div>
 
-    <div class="eventOverlay" id="0318_BadArt">
+    <div class="eventOverlay" id="0325_DiceBag">
       <div class="overlayContent">
         <div class="overlayRow">
           <h2 class="header">D&D Dice Bag Makenight</h2>
