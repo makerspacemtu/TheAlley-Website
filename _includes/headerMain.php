@@ -16,6 +16,9 @@
 			<a href="https://forms.gle/6mRoFRyugN2UaAiu8" class="button">
               Reserve the Makerspace
             </a></br>
+            <a href="https://www.mtu.edu/honors/husky-innovate/" class="button">
+                Apply for an internship position
+            </a></br>
             <a href="https://www.facebook.com/makerspacemtu/" class="button" target="_blank">
               <i class="fa fa-facebook"></i>
             </a>
