@@ -136,21 +136,11 @@
                   AJ Hamlin
                 </a>
                 <p class="advisor__title">
-                  Senior Lecturer, Engineering Fundamentals
+                  Principal Lecturer, Engineering Fundamentals
                 </p>
               </div>
 
-              <div class="column advisor">
-                <a href="mailto:rwhiltun@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  Bob Hiltunen
-                </a>
-                <p class="advisor__title">
-                  Director of Auxiliary Services
-                </p>
-              </div>
-
-              <div class="column advisor">
+              <!--<div class="column advisor">
                 <a href="mailto:cplummer@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
                   <i class="fa fa-user"></i>
                   Christopher Plummer
@@ -158,7 +148,7 @@
                 <p class="advisor__title">
                   Professor, Visual and Performing Arts
                 </p>
-              </div>
+              </div>-->
 
               <div class="column advisor">
                 <a href="mailto:dcdixon@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
@@ -170,7 +160,7 @@
                 </p>
               </div>
 
-              <div class="column advisor">
+              <!--<div class="column advisor">
                 <a href="mailto:kacyr@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
                   <i class="fa fa-user"></i>
                   Kent Cyr
@@ -178,7 +168,7 @@
                 <p class="advisor__title">
                   Assistant Professor, Visual and Performing Arts
                 </p>
-              </div>
+              </div>-->
 
               <div class="column advisor">
                 <a href="mailto:lcasper@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
@@ -196,7 +186,9 @@
                   Mary Raber
                 </a>
                 <p class="advisor__title">
-                  Assistant Dean of Academic Programs, Pavlis Honors College
+                  Chair and Professor of Practice, Engineering Fundamentals
+                  Director, Tech Forward 21st Century Education Initiative
+                  Co-director, Husky Innovate, Pavlis Honors College
                 </p>
               </div>
 
