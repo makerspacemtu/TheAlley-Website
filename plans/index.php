@@ -4,6 +4,7 @@
 <body>
 <?php include '/app/_includes/headerMain.php'; ?>
 <section>
+  <!--TODO: create a form on the webapp to update the following information-->
   <div class="content">
     <div class="row">
       <div id="planItem">
@@ -21,6 +22,7 @@
     </div>
   </div>
 </section>
+
 <!--section required for every layout-->
 <?php require '/app/_includes/call_to_action.php';
       include '/app/_includes/footer.php';

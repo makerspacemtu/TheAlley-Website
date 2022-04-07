@@ -1,10 +1,24 @@
-
+/*
+* Wiki_Library.js is used to display listed videos on the webpage using the google youtube API
+* This probably isn't the best way to implement this, so an update may be warrented.
+*
+* Author: Connor Langdon
+* Year: 2021
+*/
 var loaded = false;
 
+/*
+function: loadLibrary
+description: load library is used to load the videos in the wiki using the
+             google youtube API. TODO: preload videos before a dropdown page is
+             opened
+*/
 function loadLibrary() {
     loaded = true;
     var apiKey = "AIzaSyBMDQIYbnUUkJy7ovs1KTc-T4RgzTnUM2g";
+
     /*Load WoodWorking videos*/
+    // the playlist id for the section
     var woodworkingID = "PLwk8zcK5HMt0Vn0WauJWvNEiT1xyuHKNn";
     var requestOptions = {
         playlistId: woodworkingID,
@@ -20,6 +34,8 @@ function loadLibrary() {
             "maxResults": 50,
             "playlistId": "PLwk8zcK5HMt2tBK5xb-2AJOVYihroB-Im"
         });
+
+        //settings for the iframe on the webpage
         request.execute(function(data) {
             for (i = 0; i < data.items.length; i++) {
                 var iframe = document.createElement("iframe");
@@ -37,6 +53,7 @@ function loadLibrary() {
             }
         });
     });
+
     /*Load crafting videos*/
     var craftingID = "PLwk8zcK5HMt2pl_iM6pla-7OXS3M5EMkC";
     var requestOptions = {
@@ -70,6 +87,7 @@ function loadLibrary() {
             }
         });
     });
+
     /*Load 3dPrinting videos*/
     var printingID = "PLwk8zcK5HMt0gBAcIt7dMsb3e6iaOWQeZ";
     var requestOptions = {
@@ -103,6 +121,7 @@ function loadLibrary() {
             }
         });
     });
+
     /*Load Electronics videos*/
     var electronicsID = "PLwk8zcK5HMt1VdH68QdmnInm9yL355GQV";
     var requestOptions = {
@@ -139,6 +158,8 @@ function loadLibrary() {
 }
 
 
+/* Following functions are used to display or hide the sections for each wiki on
+   the page. TODO: update to use listeners*/
 
 var isOpen = true;
 var isOpenWW = true;
@@ -146,9 +167,12 @@ var isOpenC = true;
 var isOpenP = true;
 var isOpenE = true;
 
+/*
+//test function: beyond use
 function checkClick() {
     console.log("Clicked!");
 }
+*/
 
 function wikiDropDown() {
     document.getElementById("wikiDropDown").classList.toggle("show");

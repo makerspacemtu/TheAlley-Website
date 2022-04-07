@@ -18,6 +18,7 @@
           up here!</a>
         </p>
 
+        <!--TODO: create a form on the webapp to update the following information-->
         <h3 class="header">
           Student Leadership
         </h3>
@@ -80,6 +81,7 @@
           </div>
         </div>
 
+    <!--TODO: create a form on the webapp to update the following information-->
 		<h3 class="header">
           Maker Coaches
     </h3>

@@ -7,6 +7,12 @@
 <script src="https://apis.google.com/js/client.js?onload=load"></script>
 <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=init"></script>
 
+<!-- The implentation for the functionality of this page can be found in /js/Wiki_Library.js
+     onlick functions are not the best way to do this, so listeners should be introduced in
+		 the future.
+		 TODO: update the following section to use listeners and preload any videos.
+-->
+
 <div class="row" >
 	<h3 class="header">
 		Makerspace Wiki

@@ -4,7 +4,7 @@
 <body>
 <?php include '/app/_includes/headerMain.php'; ?>
   <script type="text/javascript" src="/js/events.js"></script>
-
+<!--TODO: create a form on the webapp to update the following information-->
 <!--The code to overlay information when a poster is clicked-->
   <div id="overlayBackground">
     <button id="overlayClose" type="button" class="close" aria-label="Close" onclick="closeEvent()">

@@ -1,0 +1,13 @@
+# Welcome to the Makerspace Website
+
+## Description:
+This repository is used to updating the Alley Makerspace's public-facing
+website.
+
+##Getting Started
+
+1.) Clone the repo to your local machine using git
+2.) Read Through the getting started with PHP document provided by Heroku
+    https://devcenter.heroku.com/articles/getting-started-with-php
+3.) You are likely working for the Michigan Tech Makerspace, so you'll want to
+    use the makerspace Heroku account in place of your own

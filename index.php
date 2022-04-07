@@ -38,6 +38,7 @@
       </div>
 
     <div class="list-item__text">
+    <!--TODO: implement text entry form entry for hours on the Web app-->
 		<table class="list-item__table">
 			<tr>
 				<th></th>
@@ -115,7 +116,8 @@
   </div>
 </div>
 <div class="row small-up-1 medium-up-2 large-up-3">
-  <!-- Copy and paste this snippet to add another sponsor. Don't forget to add the image to `/img/sponsors/{sponsor-name}` and update the url -->
+  <!-- Copy and paste this snippet to add another sponsor. Don't forget to add the image to `/img/sponsors/{sponsor-name}` and update the url
+       TODO: implement form entry for sponsor images on the Web app-->
   <div class="column">
     <div class="sponsor__photo" style="background-image: url('/img/sponsors/milwaukee.jpg');"></div>
   </div>
