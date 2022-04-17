@@ -40,7 +40,7 @@
   background-color: #ffffff;
   border-width: 4px;
   border-style: solid;
-  border-color: #3fa9f5;
+  border-color: #e33ff5;
   border-radius: 5px;
   z-index: 3;
 }
@@ -49,7 +49,7 @@
   font-family: Montserrat;
   font-size: 42px;
   font-weight: bold;
-  color: #76bf43;
+  color: #2a2b2a;
   margin: 40px 0 10px;
   text-decoration: none; }
   @media screen and (max-width: 1100px) {
@@ -74,7 +74,7 @@ p {
     font-size: 16px; }
 
 a {
-  color: #76bf43; }
+  color: #2a2b2a; }
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
@@ -435,7 +435,7 @@ body.is-reveal-open {
   overflow: hidden; }
 
 .wiki h3 {
-  color: #76bf43;
+  color: #2a2b2a;
   font-size: 36px;
   display: block;
   padding: 0;
@@ -446,7 +446,7 @@ body.is-reveal-open {
   text-transform: capitalize;
   margin: 10px 0;
   font-size: 24px;
-  color: #3fa9f5; }
+  color: #e33ff5; }
 .wiki h5 {
   margin: 10px 0;
   font-size: 20px; }
@@ -455,7 +455,7 @@ body.is-reveal-open {
 .wiki p {
   margin: 15px 0; }
 .wiki__side-menu-category {
-  color: #3fa9f5;
+  color: #e33ff5;
   text-transform: capitalize;
   font-size: 16px;
   font-weight: bold;
@@ -497,13 +497,13 @@ body.is-reveal-open {
     text-shadow: 0 0 2px #000; }
   .card__content {
     padding: 20px;
-    background-color: #3fa9f5;
+    background-color: #e33ff5;
     color: #fff; }
   .card__footer {
     text-align: center;
     background-color: transparent;
     color: #fff;
-    border-top: 1px solid #3fa9f5;
+    border-top: 1px solid #e33ff5;
     padding: 10px;
     display: block;
     font-weight: bold;
@@ -513,11 +513,11 @@ body.is-reveal-open {
       background-color: rgba(63, 169, 245, 0.5); }
 
 .member__name {
-  color: #3fa9f5;
+  color: #e33ff5;
   text-decoration: none;
   font-size: 24px; }
   .member__name:hover {
-    color: #76bf43; }
+    color: #2a2b2a; }
 .member__title {
   color: #f44040;
   font-size: 18px;
@@ -536,10 +536,10 @@ body.is-reveal-open {
   margin-bottom: 30px; }
   .advisor__name {
     font-size: 24px;
-    color: #3fa9f5;
+    color: #e33ff5;
     text-decoration: none; }
     .advisor__name:hover {
-      color: #76bf43; }
+      color: #2a2b2a; }
   .advisor__title {
     font-size: 16px;
     font-weight: bold; }
@@ -586,7 +586,7 @@ body.is-reveal-open {
     width: 50px;
     height: 50px;
     border-radius: 3px;
-    background-color: #3fa9f5;
+    background-color: #e33ff5;
     display: inline-block;
     margin-right: 20px;
     text-align: center;
@@ -684,7 +684,7 @@ body.is-reveal-open {
   font-family: Montserrat;
   font-size: 20px;
   font-weight: bold;
-  color: #76bf43;
+  color: #2a2b2a;
   text-decoration: none;
   margin-right: 20px;
   line-height: 1em;
@@ -696,7 +696,7 @@ body.is-reveal-open {
 
 .call-to-action {
   padding: 40px 0;
-  background-image: linear-gradient(285deg, #3ea8f5, #76bf43); }
+  background-image: linear-gradient(285deg, #3ea8f5, #2a2b2a); }
   .call-to-action__header {
     font-size: 42px;
     font-weight: bold;
@@ -720,7 +720,7 @@ body.is-reveal-open {
     background-position: center;
     background-size: cover; }
   .event-card__time {
-    color: #3fa9f5;
+    color: #e33ff5;
     font-weight: bold; }
   .event-card__description {
     margin-top: 20px; }
