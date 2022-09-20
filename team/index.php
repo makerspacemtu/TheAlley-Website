@@ -90,39 +90,102 @@
           here to assist you and share their experience!
     </p>
 		<div class="row small-up-1 medium-up-2 large-up-3">
+      <p class="column">
+			Aidan Cellarius
+			</p>
 			<p class="column">
-			Brendan Powerss
+			AJ Norell
 			</p>
       <p class="column">
-			Connor Langdon
-      </p>
-      <p class="column">
-      Andrea Hernandez
+			Austin Jones
       </p>
       <p class="column">
       Ben Bolduc
       </p>
       <p class="column">
-      Evelyn James
+      Ben May
       </p>
       <p class="column">
-      Hunter Higdon
+      Benjamin Snyder
+      </p>
+      <p class="column">
+      Brendan Powers
       </p>
 			<p class="column">
-			Dolan Moles
+			Chelsea Archambeau
 			</p>
       <p class="column">
-			Jack Philip
+			Daniel Stealgrave
       </p>
+      <p class="column">
+			Dolan Moles
+      </p>
+      <p class="column">
+			Eric Nordan
+      </p>
+      <p class="column">
+			Ethan Smythe
+      </p>
+      <p class="column">
+			Ezra Crandell
+			</p>
+      <p class="column">
+			Ian Wicks
+			</p>
+      <p class="column">
+			Jack Philp
+			</p>
+      <p class="column">
+			Jackson Herman
+			</p>
+      <p class="column">
+			James Whittaker
+			</p>
+      <p class="column">
+			Kai Jackson
+			</p>
+      <p class="column">
+			Lisa Casper
+			</p>
+      <p class="column">
+			Loyal Schneider
+			</p>
+      <p class="column">
+			Marshall Huberts
+			</p>
       <p class="column">
 			Matthew Yeates
-      </p>
+			</p>
       <p class="column">
-			Meg Rotole
-      </p>
+			Mag Rotole
+			</p>
       <p class="column">
-			Sam Vellequette
-      </p>
+			Michael Ilfrey
+			</p>
+      <p class="column">
+			Nicholas Joerin
+			</p>
+      <p class="column">
+			Nicholas Wyatt
+			</p>
+      <p class="column">
+			Nikki Donlay
+			</p>
+      <p class="column">
+			Ryleigh Parsons
+			</p>
+      <p class="column">
+			Samuel Vellequette
+			</p>
+      <p class="column">
+			Thomas Van Wingen
+			</p>
+      <p class="column">
+			Timothy Jorgensen
+			</p>
+      <p class="column">
+			Will Sisson
+			</p>
         </div>
 
 
