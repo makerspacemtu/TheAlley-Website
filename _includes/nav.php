@@ -11,27 +11,27 @@
       </a>
       <ul class="nav__link-list">
         <li class="nav__link-item">
-          <a href="/index.php" class="nav__link">
+          <a href="/" class="nav__link">
             Home
           </a>
         </li>
         <li class="nav__link-item">
-          <a href="/events/index.php" class="nav__link">
+          <a href="/events/" class="nav__link">
             Events
           </a>
         </li>
         <li class="nav__link-item">
-          <a href='/plans/index.php' class="nav__link">
+          <a href='/plans/' class="nav__link">
             Plans
           </a>
         </li>
         <li class="nav__link-item">
-          <a href='/wiki/index.php' class="nav__link">
+          <a href='/wiki/' class="nav__link">
             Wiki
           </a>
         </li>
         <li class="nav__link-item">
-          <a href="/team/index.php" class="nav__link">
+          <a href="/team/" class="nav__link">
             The Team
           </a>
         </li>
