@@ -10,14 +10,14 @@
 		   <p style="color: #FFFFFF; font-size: 16px; margin: 0px 0 40px;">
 		  </p>
           <div class="hero__buttons">
-			<a href="https://forms.gle/tXJmB84Q4EkeCRo5A" class="button">
+			      <a href="https://forms.gle/tXJmB84Q4EkeCRo5A" class="button">
               Sign up for training
             </a>
-			<a href="https://forms.gle/6mRoFRyugN2UaAiu8" class="button">
+			      <a href="https://forms.gle/6mRoFRyugN2UaAiu8" class="button">
               Reserve the Makerspace
             </a></br>
-            <a href="https://www.mtu.edu/honors/husky-innovate/" class="button">
-                Apply for an internship position
+            <a href="https://www.signupgenius.com/go/10C0D4AAAAF2DA1FDCF8-eng1101" class="button">
+                ENG1101 Signup
             </a></br>
             <a href="https://www.facebook.com/makerspacemtu/" class="button" target="_blank">
               <i class="fa fa-facebook"></i>
