@@ -115,6 +115,9 @@
 			Chelsea Archambeau
 			</p>
       <p class="column">
+			Connor Langdon
+			</p>
+      <p class="column">
 			Daniel Stealgrave
       </p>
       <p class="column">
