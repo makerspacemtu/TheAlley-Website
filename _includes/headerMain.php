@@ -13,7 +13,7 @@
 			      <a href="https://forms.gle/tXJmB84Q4EkeCRo5A" class="button">
               Sign up for training
             </a>
-			      <a href="https://forms.gle/6mRoFRyugN2UaAiu8" class="button">
+			      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNfRerItDlguRCCwix_wJ3OAspvOvkRJHcc6XQgK2pLvBkVQ/viewform?usp=sf_link" class="button">
               Reserve the Makerspace
             </a></br>
             <a href="https://www.signupgenius.com/go/10C0D4AAAAF2DA1FDCF8-eng1101" class="button">
