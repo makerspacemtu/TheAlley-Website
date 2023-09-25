@@ -26,15 +26,15 @@
         <div class="row small-up-1 medium-up-2 large-up-3">
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/cdlangdo.jpg');"></div>
-              <a href="mailto:cdlangdo@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Connor Langdon
+              <div class="member__photo" style="background-image: url('/img/crew/Meg.jpg');"></div>
+              <a href="mailto:marotole@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
+                Meg Rotole
               </a>
               <h4 class="member__title">
                 Student Operations Manager
               </h4>
               <p class="member__bio small">
-                Connor, don't forget to fill out this description!
+                Ask me for help with anything east of the safety line! I’d love to hear about your projects and ideas!
               </p>
             </div>
 
@@ -53,8 +53,8 @@
 
             <div class="column member">
               <div class="member__photo" style="background-image: url('/img/crew/jack.jpg');"></div>
-              <a href="mailto:jephilip@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Jack Philip
+              <a href="mailto:jephilp@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
+                Jack Philp
               </a>
               <h4 class="member__title">
                 Wood-Working Co-Lead
