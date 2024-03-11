@@ -4,3 +4,13 @@ deployment:
     - export DEPLOYPATH=/home/makerspacemtu/public_html/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R PDFs $DEPLOYPATH
+    - /bin/cp -R ZIPs $DEPLOYPATH
+    - /bin/cp -R _includes $DEPLOYPATH
+    - /bin/cp -R _layouts $DEPLOYPATH
+    - /bin/cp -R events $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R plans $DEPLOYPATH
+    - /bin/cp -R team $DEPLOYPATH
+    - /bin/cp -R wiki $DEPLOYPATH
