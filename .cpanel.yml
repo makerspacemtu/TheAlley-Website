@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/makerspacemtu/public_html/
-    - index.html $DEPLOYPATH
-    - /css main.css $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
