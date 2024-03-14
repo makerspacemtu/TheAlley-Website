@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<?php include '/app/_includes/head.php'; ?>
+<?php include '/itss/home/makerspacemtu/public_html/_includes/head.php'; ?>
 <body>
-<?php include '/app/_includes/headerMain.php'; ?>
+<?php include '/itss/home/makerspacemtu/public_html/_includes/headerMain.php'; ?>
 <div class="row">
   <div class="small-12 columns">
     <h2 class="header">
