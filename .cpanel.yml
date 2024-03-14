@@ -1,8 +1,8 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/makerspacemtu/public_html/
-    - /bin/cp index.php $DEPLOYPATH
+    - export DEPLOYPATH=/itss/home/makerspacemtu/public_html/
+    - composer install
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R PDFs $DEPLOYPATH
     - /bin/cp -R ZIPs $DEPLOYPATH
@@ -14,3 +14,4 @@ deployment:
     - /bin/cp -R plans $DEPLOYPATH
     - /bin/cp -R team $DEPLOYPATH
     - /bin/cp -R wiki $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
