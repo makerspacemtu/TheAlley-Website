@@ -2,7 +2,7 @@
     <div class="hero hero--home">
       <div class="row">
         <div class="small-12 columns">
-          <?php include '/app/_includes/nav.php';?>
+          <?php include '/itss/home/makerspacemtu/public_html/_includes/nav.php';?>
           <h1 class="hero__header">
             Your space to<br/>
             bring projects to life

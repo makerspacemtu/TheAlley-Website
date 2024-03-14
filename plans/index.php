@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<?php include '/app/_includes/head.php'; ?>
+<?php include '/itss/home/makerspacemtu/public_html/_includes/head.php'; ?>
 <body>
-<?php include '/app/_includes/headerMain.php'; ?>
+<?php include '/itss/home/makerspacemtu/public_html/_includes/headerMain.php'; ?>
 <section>
   <!--TODO: create a form on the webapp to update the following information-->
   <div class="content">
@@ -24,8 +24,8 @@
 </section>
 
 <!--section required for every layout-->
-<?php require '/app/_includes/call_to_action.php';
-      include '/app/_includes/footer.php';
+<?php require '/itss/home/makerspacemtu/public_html/_includes/call_to_action.php';
+      include '/itss/home/makerspacemtu/public_html/_includes/footer.php';
 ?>
 </body>
 </html>
