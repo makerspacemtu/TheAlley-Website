@@ -26,9 +26,9 @@
         <div class="row small-up-1 medium-up-2 large-up-3">
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Meg.jpg');"></div>
-              <a href="mailto:marotole@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Meg Rotole
+              <div class="member__photo" style="background-image: url('/img/crew/GeneralRiver2023.jpg');"></div>
+              <a href="mailto:saneveau@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
+                Sam Neveau
               </a>
               <h4 class="member__title">
                 Student Operations Manager
@@ -39,15 +39,15 @@
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Sam18.jpg');"></div>
-              <a href="mailto:savelleq@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Sam Vellequette
+              <div class="member__photo" style="background-image: url('/img/crew/miflrey.jpg');"></div>
+              <a href="mailto:mpilfrey@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
+                Michael Ilfrey
               </a>
               <h4 class="member__title">
                 Student Operations Manager
               </h4>
               <p class="member__bio small">
-                I want to learn everything, but that's a lot to remember.
+                I ride onewheel...
               </p>
             </div>
 
@@ -57,7 +57,7 @@
                 Jack Philp
               </a>
               <h4 class="member__title">
-                Wood-Working Co-Lead
+                Student Operations Manager
               </h4>
               <p class="member__bio small">
                 I can help with just about anything, no guarantees though.
@@ -65,15 +65,15 @@
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Meg.jpg');"></div>
+              <div class="member__photo" style="background-image: url('/img/crew/nikki.jpg');"></div>
               <a href="mailto:marotole@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Meg Rotole
+                Nikki Donley
               </a>
               <h4 class="member__title">
                 Crafting Team Lead
               </h4>
               <p class="member__bio small">
-                Ask me for help with anything east of the safety line! I’d love to hear about your projects and ideas!
+                Yeah I craft
               </p>
             </div>
 
