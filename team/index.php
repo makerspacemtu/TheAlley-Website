@@ -14,7 +14,7 @@
           creators, makers, tinkerers, designers, inventors, (whatever you
           prefer to call yourself), takes a lot of work.
           Interested in helping out? <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfIzT2M5DMW1mxSPlJLA1TPpDpi0obBB7mrAmJER3KqwpNfPQ/viewform?usp=sf_link">Sign
+          href="https://forms.gle/craYGN6TC95e9Utr9">Sign
           up here!</a>
         </p>
 
