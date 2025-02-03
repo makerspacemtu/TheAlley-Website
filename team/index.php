@@ -14,7 +14,7 @@
           creators, makers, tinkerers, designers, inventors, (whatever you
           prefer to call yourself), takes a lot of work.
           Interested in helping out? <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfIzT2M5DMW1mxSPlJLA1TPpDpi0obBB7mrAmJER3KqwpNfPQ/viewform?usp=sf_link">Sign
+          href="https://forms.gle/craYGN6TC95e9Utr9">Sign
           up here!</a>
         </p>
 
@@ -26,22 +26,22 @@
         <div class="row small-up-1 medium-up-2 large-up-3">
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Meg.jpg');"></div>
+              <div class="member__photo" style="background-image: url('/img/crew/SamanthaNeveau.jpg');"></div>
               <a href="mailto:marotole@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Meg Rotole
+                Samantha Neveau
               </a>
               <h4 class="member__title">
                 Student Operations Manager
               </h4>
               <p class="member__bio small">
-                Ask me for help with anything east of the safety line! I’d love to hear about your projects and ideas!
+                I am Sam, a third year Robotics Engineer. Beyond the Alley, I am in Craft Club and the local musical service Fraternity Mu Beta Psi.
               </p>
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Sam18.jpg');"></div>
+              <div class="member__photo" style="background-image: url('/img/crew/AlexNosalik.jpg');"></div>
               <a href="mailto:savelleq@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Sam Vellequette
+                Alex Nosalik
               </a>
               <h4 class="member__title">
                 Student Operations Manager
@@ -52,12 +52,12 @@
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/jack.jpg');"></div>
+              <div class="member__photo" style="background-image: url('/img/crew/ChethanMagnan.png');"></div>
               <a href="mailto:jephilp@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Jack Philp
+                Chethan Magnan
               </a>
               <h4 class="member__title">
-                Wood-Working Co-Lead
+                Student Operations Manager
               </h4>
               <p class="member__bio small">
                 I can help with just about anything, no guarantees though.
@@ -65,15 +65,15 @@
             </div>
 
             <div class="column member">
-              <div class="member__photo" style="background-image: url('/img/crew/Meg.jpg');"></div>
+              <div class="member__photo" style="background-image: url('/img/crew/NikkiDonley.jpg');"></div>
               <a href="mailto:marotole@mtu.edu?subject=Makerspace Involvement" target="_blank" class="member__name">
-                Meg Rotole
+                Nikki Donley
               </a>
               <h4 class="member__title">
-                Crafting Team Lead
+                Student Operations Manager
               </h4>
               <p class="member__bio small">
-                Ask me for help with anything east of the safety line! I’d love to hear about your projects and ideas!
+                I’d love to hear about your projects and ideas!
               </p>
             </div>
 
@@ -91,104 +91,122 @@
     </p>
 		<div class="row small-up-1 medium-up-2 large-up-3">
       <p class="column">
-			Aidan Cellarius
+			Adam Festian
 			</p>
 			<p class="column">
-			AJ Norell
+			Alex Nosalik
 			</p>
       <p class="column">
-			Austin Jones
+			August Wernimont
       </p>
       <p class="column">
-      Ben Bolduc
+      Bela Soderquist
       </p>
       <p class="column">
       Ben May
       </p>
       <p class="column">
-      Benjamin Snyder
+      Bradley Burkard
       </p>
       <p class="column">
-      Brendan Powers
+      Carli Pares
       </p>
 			<p class="column">
-			Chelsea Archambeau
+			Chethan Magnan
 			</p>
       <p class="column">
-			Connor Langdon
+			Claire Schultz
 			</p>
       <p class="column">
-			Daniel Stealgrave
+			David Reeves
       </p>
       <p class="column">
 			Dolan Moles
       </p>
       <p class="column">
-			Eric Nordan
+			Emilie Rummer
       </p>
       <p class="column">
-			Ethan Smythe
+			Emily Daley
       </p>
       <p class="column">
-			Ezra Crandell
+			Eric Anderson
 			</p>
       <p class="column">
-			Ian Wicks
+			Gabbie Horrmann
 			</p>
       <p class="column">
-			Jack Philp
+			Gavin Shelburne
+			</p>
+      <p class="column">
+			Isaac Pontier
+			</p>
+      <p class="column">
+			Jack Coluccy
+			</p>
+      <p class="column">
+			Jack Stemmerich
 			</p>
       <p class="column">
 			Jackson Herman
 			</p>
       <p class="column">
-			James Whittaker
+			Jade Swingrum
 			</p>
       <p class="column">
-			Kai Jackson
+			James Burke
 			</p>
       <p class="column">
-			Lisa Casper
+			James Jaquith
 			</p>
       <p class="column">
-			Loyal Schneider
+			Jaspreet Kaur
 			</p>
       <p class="column">
-			Marshall Huberts
+			Jayna Crosby
 			</p>
       <p class="column">
-			Matthew Yeates
+			Julianna Steuer
 			</p>
       <p class="column">
-			Mag Rotole
+			Katelyn Spolnicki
 			</p>
       <p class="column">
-			Michael Ilfrey
+			Kevin Schillerstrom
 			</p>
       <p class="column">
-			Nicholas Joerin
+			Lauren Melecosky
+			</p>
+      <p class="column">
+			Micheal Milfrey
 			</p>
       <p class="column">
 			Nicholas Wyatt
 			</p>
       <p class="column">
-			Nikki Donlay
+			Nikki Donley
 			</p>
       <p class="column">
-			Ryleigh Parsons
+			Rylan Zielinski
 			</p>
       <p class="column">
-			Samuel Vellequette
+			Samantha Neveau
 			</p>
       <p class="column">
 			Thomas Van Wingen
 			</p>
       <p class="column">
-			Timothy Jorgensen
+			Will Tutro
 			</p>
       <p class="column">
-			Will Sisson
+			William Kanar
 			</p>
+      <p class="column">
+			William Piskie
+			</p>
+      <p class="column">
+			Wyatt Bolton
+			</p>	
         </div>
 
 
@@ -241,7 +259,7 @@
               <div class="column advisor">
                 <a href="mailto:lcasper@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
                   <i class="fa fa-user"></i>
-                  Lisa Casper
+                  Shane Oberloier
                 </a>
                 <p class="advisor__title">
                   Husky Innovate Program Manager, Pavlis Honors College
