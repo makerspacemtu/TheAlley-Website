@@ -4,7 +4,7 @@
       <h2 class="call-to-action__header">
         Make Something Awesome in the Alley Makerspace!
       </h2>
-      <p>
+      <p style="color: white;">
 	      Want to be trained on a tool? You can come and be trained by any coach 
 	      during open hours. If you have further questions, you can email the Makerspace.
       </p>
