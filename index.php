@@ -8,7 +8,7 @@
     <h2 class="header">
       Our Mission
     </h2>
-    <p>
+    <p style="color: white;">
       We exist to create an environment where everyone in the Michigan Tech
       community is encouraged and supported to make by providing a welcoming
       space, learning opportunities, a maker network, and resources.
