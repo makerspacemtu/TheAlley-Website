@@ -215,70 +215,16 @@
         </h3>
 
         <div class="row small-up-1 medium-up-2 large-up-3">
-
               <div class="column advisor">
-                <a href="mailto:ahamlin@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  AJ Hamlin
-                </a>
-                <p class="advisor__title">
-                  Principal Lecturer, Engineering Fundamentals
-                </p>
-              </div>
-
-              <!--<div class="column advisor">
-                <a href="mailto:cplummer@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  Christopher Plummer
-                </a>
-                <p class="advisor__title">
-                  Professor, Visual and Performing Arts
-                </p>
-              </div>-->
-
-              <div class="column advisor">
-                <a href="mailto:dcdixon@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  David Dixon
-                </a>
-                <p class="advisor__title">
-                  Biosafety Officer, Compliance, Integrity, and Safety Office
-                </p>
-              </div>
-
-              <!--<div class="column advisor">
-                <a href="mailto:kacyr@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  Kent Cyr
-                </a>
-                <p class="advisor__title">
-                  Assistant Professor, Visual and Performing Arts
-                </p>
-              </div>-->
-
-              <div class="column advisor">
-                <a href="mailto:lcasper@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
+                <a href="mailto:swoberlo@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
                   <i class="fa fa-user"></i>
                   Shane Oberloier
                 </a>
                 <p class="advisor__title">
-                  Husky Innovate Program Manager, Pavlis Honors College
+                  Makerspace Supervisor
                 </p>
-              </div>
-
-              <div class="column advisor">
-                <a href="mailto:mraber@mtu.edu?subject=Makerspace Involvement" target="_blank" class="advisor__name">
-                  <i class="fa fa-user"></i>
-                  Mary Raber
-                </a>
-                <p class="advisor__title">
-                  Chair and Professor of Practice, Engineering Fundamentals
-                  Director, Tech Forward 21st Century Education Initiative
-                  Co-director, Husky Innovate, Pavlis Honors College
-                </p>
-              </div>
-
-          </div>
+	      </div>
+        </div>
       </div>
     </div>
 
